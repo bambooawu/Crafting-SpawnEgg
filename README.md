@@ -1,5 +1,5 @@
 # Crafting-SpawnEgg
-This is Minecraft mod.
+This is a Minecraft mod.
 This mod allows you to craft spawn eggs.
 You can find Biostone Ore on X-axis 4~11,, will drop Unprocessed Biostone after mining.
 Craft Biostone using lapis lazuli blocks, iron blocks, diamond blocks, redstone blocks and Unprocessed Biostone.
